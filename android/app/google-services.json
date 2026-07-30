@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "373552463340",
+    "firebase_url": "https://student-planner-9cb62-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "student-planner-9cb62",
+    "storage_bucket": "student-planner-9cb62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373552463340:android:8ffd40014fd8726c50d4c9",
+        "android_client_info": {
+          "package_name": "com.vanalvan.student_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH__SjCBJBLj0j6bZBpnZLI2sJgmstycE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
