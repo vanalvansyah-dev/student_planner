@@ -27,8 +27,6 @@ lib/
 └── presentation/     → semua screen
 ```
 
-Kalau mau paham lebih detail kenapa disusun begini, baca `ARCHITECTURE.md`. Kalau lagi mau ubah sesuatu dan takut ngerusak bagian lain, cek `HANDOFF.md` dulu.
-
 ## Cara jalanin
 
 ```bash
@@ -37,8 +35,6 @@ cd student_planner
 flutter pub get
 flutterfire configure
 ```
-
-`firebase_options.dart` sengaja nggak ikut ke-commit (lihat bagian bawah), jadi harus di-generate ulang pakai project Firebase kamu sendiri lewat `flutterfire configure` di atas.
 
 Di Firebase Console, nyalain:
 - Authentication → Email/Password
